@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Efnilite/Efnilite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on **[Infinite Parkour](https://github.com/Efnilite/Walk-in-the-Park)**
+
+🌃 I like space, Japanese music and doing the coding :)
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=Efnilite&show_icons=true&theme=midnight-purple)
+
+</div>
