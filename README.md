@@ -3,7 +3,7 @@
 ### Hey there :)
 
 
-🔭 Currently working on **[Infinite Parkour](https://github.com/Efnilite/Walk-in-the-Park)** and **[Advent of Code 2022](https://github.com/Efnilite/AOC22)**
+🔭 Currently working on **[Infinite Parkour](https://github.com/Efnilite/Walk-in-the-Park)** and **[Advent of Code 2021](https://github.com/Efnilite/AOC21)**
 
 🌃 I like space, Japanese music and food, and doing the coding :)
 
