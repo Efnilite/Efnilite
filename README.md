@@ -2,7 +2,7 @@
 
 ### Hi there :)
 
-🌃 **[efnilite.dev](https://www.efnilite.dev/)** | **[salmonberry.app](https://salmonberry.app)**
+🌃 **[efnilite.dev](https://efnilite.dev/)** | **[salmonberry.app](https://salmonberry.app)**
 
 🔭 Currently working on learning Svelte
   
