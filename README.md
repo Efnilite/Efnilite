@@ -2,7 +2,7 @@
 
 ### Hi there :)
 
-🌃 **[efnilite.dev](https://efnilite.dev/)** | **[skript.efnilite.dev](https://skript.efnilite.dev)** | **[salmonberry.app](https://salmonberry.app)**
+🌃 **[efnilite.dev](https://efnilite.dev/)** | **[https://beta-docs.skriptlang.org](https://beta-docs.skriptlang.org)** | **[salmonberry.app](https://salmonberry.app)**
 
 🔭 Currently working on learning **[C](https://github.com/Efnilite/airport)** and **[Rust](https://github.com/Efnilite/mouse)**
   
