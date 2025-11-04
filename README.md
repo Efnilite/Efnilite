@@ -2,11 +2,11 @@
 
 ### Hi there :)
 
-🌃 **[efnilite.dev](https://efnilite.dev/)** | **[beta-docs.skriptlang.org](https://beta-docs.skriptlang.org)** | **[salmonberry.app](https://salmonberry.app)**
+🌃 **[efnilite.dev](https://efnilite.dev/)** | **[beta-docs.skriptlang.org](https://beta-docs.skriptlang.org)**
 
-🔭 Currently working on learning **[C](https://github.com/Efnilite/airport)** and **[Rust](https://github.com/Efnilite/mouse)**
+🔭 Currently working on low-level projects **[C](https://github.com/Efnilite/airport)** and **[Rust](https://github.com/Efnilite/mouse)**
   
-⌨️ Programming languages: **[Kotlin](https://github.com/Efnilite/rex)** | **[Java](https://github.com/Efnilite/Walk-in-the-Park)** | **[Clojure](https://github.com/Efnilite/games)** | **[C](https://github.com/Efnilite/airport)** | **[Rust](https://github.com/Efnilite/mouse)** | **[Vue](https://beta-docs.skriptlang.org)**
+⌨️ Programming languages: **[Kotlin](https://github.com/Efnilite/rex)** | **[Java](https://github.com/SkriptLang/Skript)** | **[C](https://github.com/Efnilite/airport)** | **[Rust](https://github.com/Efnilite/mouse)** | **[Clojure](https://github.com/Efnilite/games)**  | **[Vue](https://beta-docs.skriptlang.org)**
 
 🔧 Other skills: **Maven** | **Gradle** | **MySQL** | **JUnit** | **EasyMock** | **PocketBase** | **SDL** | **YAML** | **CMake**
 
