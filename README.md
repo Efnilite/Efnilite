@@ -8,6 +8,6 @@
   
 ⌨️ Programming languages: **[Kotlin](https://github.com/Efnilite/rex)** | **[Java](https://github.com/SkriptLang/Skript)** | **[C](https://github.com/Efnilite/airport)** | **[Rust](https://github.com/Efnilite/mouse)** | **[Clojure](https://github.com/Efnilite/games)**  | **[Vue](https://beta-docs.skriptlang.org)**
 
-🔧 Other skills: **Maven** | **Gradle** | **MySQL** | **JUnit** | **EasyMock** | **PocketBase** | **SDL** | **YAML** | **CMake**
+🔧 Other skills: **Maven** | **Gradle** | **JUnit** | **EasyMock** | **SDL** | **CMake** | **Digital Twinning**
 
 </div>
