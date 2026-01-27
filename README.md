@@ -2,7 +2,7 @@
 
 ### Hi there :)
 
-🌃 **[efnilite.dev](https://efnilite.dev/)** | **[beta-docs.skriptlang.org](https://beta-docs.skriptlang.org)**
+🌃 **[efnilite.dev](https://efnilite.dev/)**
 
 🔭 Currently working on low-level projects **[C](https://github.com/Efnilite/airport)**, **[Rust](https://github.com/Efnilite/mouse)** and **[C++](https://gitlab.tue.nl/2irr70-capstone-quercus-airport/quercus-simulation)**.
   
